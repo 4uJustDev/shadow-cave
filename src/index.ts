@@ -1,3 +1,4 @@
-import { createScene } from './scene';
+import { Game } from './core/Game.ts';
 
-createScene();
+const game = new Game();
+game.start();
