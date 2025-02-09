@@ -1,0 +1,58 @@
+После определения игры необходимо было подробнее изучить ее. Определенно я буду реализовывать то что мне нравиться, а не втупую копировать шаги. 
+Потому что он разметил план на 4 недели создания, я не собираюсь создавать игру за 4 недели в неизвестном мне пространстве.
+Возможно будующие мои игры в браузере я буду планировать до стадии Production и ставить время, но сейчас мне не понятно.
+AI - это вспомогательный инструмент и многие забывают об этом !
+
+После изучения мне стало понятно что:
+1) Я не имею четкого понятия об IndexedDB в JS.
+2) Нужны базовые модельки, я когда занимался 3D, но больше твердотельным. (Blender это твое время)
+3) Three.Js как то использовал но чтобы сильно изучал - НЕТ.
+4) Все мое расписание - а точнее спринты будут в папке schedule
+
+
+Очень важно распределить время между работой, жизнью, хоби и учебой, нужен Agile. 
+1) Недельный спринт - оптимально
+2) Первое ретро будет интересным
+3) Надо ставить пока что меньше задач - лучше не добрать чем перебрать
+4) Jira используется - вроде бесплатный
+5) Начнем с 25 поинтов в спринте, там ретро покажет
+6) Незнаю почему но мне показалось 70 на весь спринт удобным, потом 35, в итоге ничего не нравиться, но ок будем смотреть дальше
+7) Начало вторник (04.02.2025), планирование-ретро в воскресенье
+
+Разбаловка:
+35 - весь спринт
+15 - половина спринта
+5 - 1-2 часа
+
+Помощь в моделях нашел:
+https://sketchfab.com/
+https://polyhaven.com/
+https://itch.io/game-assets/free
+https://www.blenderkit.com/
+https://www.turbosquid.com/Search/3D-Models/free
+https://kenney.nl/assets
+https://opengameart.org/
+https://market.pmnd.rs/
+
+Проект которые мне понравились: (советую посмотреть)
+BEST I LOVE IT
+https://heraclosgame.com/
+https://www.anumberfromtheghost.com/
+https://coastalworld.com/
+https://choochooworld.com/?DATA=/0/D
+
+AWESOME
+https://exp-my-little-storybook.lusion.co/
+https://needle.tools/?room=fast-iteration
+https://neal.fun/design-the-next-iphone/
+https://www.kodeclubs.com/
+https://helloenjoy.itch.io/hellorun
+https://www.playkeepout.com/
+https://www.campoallecomete.it/#!/en
+
+GOOD
+https://www.kubota.com/futurecube/
+https://leap-for-mankind.com/
+https://henryheffernan.com/
+https://www.david-hckh.com/
+https://jesse-zhou.com/

@@ -1,0 +1,159 @@
+I ask AI "DeepSeek" for game ideas, i have some, but they are not for browser games.
+
+I like first and second variants, so next i decide what i can realize, 
+and what looks "real" for created in browser. 
+
+I CHOOSE SECOND - Treasure Island (Shadow Cave - name of the game)
+
+/////////////////////////////////////////////
+////////////// PROMPT
+/////////////////////////////////////////////
+Stack: Three.js, JS, you can add anything related to Web development if necessary.
+
+Browser game: A game where you can collect, find, and accumulate resources. Something can be improved.
+
+Take into account:
+1) It will be necessary to spend resources.
+2) There is a main goal, for example, to buy the largest item.
+3) There are stations that I can buy, they will make it easier for me to pass.
+4) There must be obstacles, for example, stations break down and need to be repaired, so you need to monitor this and find the appropriate tools.
+5) There will be achievements in the game (You need to store them somewhere, for example in the cache or you can do authorization)
+6) As for authorization, I'm afraid that it won't be safe for users to register on my site.
+
+It is necessary to write game ideas and their short description and plot outline. A game made there for 30-60 hours, 
+at least basic logic and levels. Then it will be possible to improve and refine it. Write down 10 project ideas that can be done, 
+it's important to me initially the idea of the game, not how I will implement it.
+
+/////////////////////////////////////////////
+////////////// ANSWER
+/////////////////////////////////////////////
+
+1. The Space Miner
+Plot: You are a space miner who mines rare resources on asteroids. Your goal is to accumulate enough resources to buy the largest spaceship in the galaxy.
+
+Mechanics:
+
+Mining resources on asteroids (clicks or mini-games).
+
+Purchase and upgrade stations for automatic mining.
+
+Stations can break down due to space storms, they need to be repaired.
+
+Achievements for the extraction of a certain amount of resources or for the purchase of upgrades.
+
+2. Treasure Island
+Plot: You are stranded on a desert island full of treasures and dangers. Your goal is to find the biggest treasure, but for this you need to improve your tools and build bases.
+
+Mechanics:
+
+Treasure hunt using a metal detector (clicks or mini-games).
+
+Purchase of databases for storing resources and improving tools.
+
+Obstacles: tools are breaking, bases are being destroyed due to storms.
+
+Achievements for treasures found and bases built.
+
+3. The Underground City
+Plot: You are the mayor of an underground city, who must develop infrastructure and extract resources for population growth. Your goal is to build the largest skyscraper.
+
+Mechanics:
+
+Extraction of resources (coal, ore) for construction.
+
+Purchase of stations for automatic extraction and processing.
+
+Obstacles: earthquakes that destroy stations.
+
+Achievements for the number of buildings built and the population level.
+
+4. The farm of the Future
+Plot: You run a high-tech farm where you grow rare plants and animals. Your goal is to grow the largest plant or animal.
+
+Mechanics:
+
+Planting plants and caring for animals (clicks or timers).
+
+Purchase of robots to automate processes.
+
+Obstacles: plant and animal diseases that need to be treated.
+
+Achievements for grown plants and animals.
+
+5. The Lost City
+Plot: You are an archaeologist who explores an ancient city. Your goal is to find the most valuable artifact, but for this you need to improve your tools and build camps.
+
+Mechanics:
+
+Excavation and artifact search (clicks or mini-games).
+
+Purchase camps to store resources and upgrade tools.
+
+Obstacles: tools are breaking, camps are being destroyed due to sandstorms.
+
+Achievements for artifacts found and camps built.
+
+6. The City of robots
+Plot: You are creating a city populated by robots. Your goal is to build the biggest robot, but for this you need to extract resources and improve factories.
+
+Mechanics:
+
+Extraction of resources for the construction of robots.
+
+Purchase of factories for the automatic assembly of robots.
+
+Obstacles: factories are breaking down, they need to be repaired.
+
+Achievements for the number of robots built and the city level.
+
+7. Ocean Station
+Plot: You control a research station at the bottom of the ocean. Your goal is to find the largest underwater city, but for this you need to improve equipment and build bases.
+
+Mechanics:
+
+Explore the ocean and collect resources (clicks or mini-games).
+
+Purchase of databases for storing resources and improving equipment.
+
+Obstacles: equipment breaks due to pressure, bases collapse due to currents.
+
+Achievements for underwater cities found and bases built.
+
+8. Moon Base
+Plot: You are the commander of a lunar base that extracts rare resources for the Earth. Your goal is to build the largest telescope to communicate with other civilizations.
+
+Mechanics:
+
+Mining resources on the moon (clicks or mini-games).
+
+Purchase of stations for automatic extraction and processing.
+
+Obstacles: stations are breaking down due to meteor showers.
+
+Achievements for the number of resources extracted and stations built.
+
+9. The Magical Forest
+Plot: You are a magician who lives in a magical forest. Your goal is to create the most powerful artifact, but for this you need to collect magical resources and improve your spells.
+
+Mechanics:
+
+Collect magical resources (clicks or mini-games).
+
+Purchase altars to automatically collect resources.
+
+Obstacles: Altars are being destroyed by magical storms.
+
+Achievements for artifacts created and magic levels.
+
+10. The post-apocalyptic world
+Plot: You are surviving in a post-apocalypse world. Your goal is to build the largest shelter, but for this you need to extract resources and improve your tools.
+
+Mechanics:
+
+Resource extraction in a ruined world (clicks or mini-games).
+
+Purchase of stations for automatic extraction and processing.
+
+Obstacles: stations are breaking down due to radiation, they need to be repaired.
+
+Achievements for the number of shelters built and the level of survival.
